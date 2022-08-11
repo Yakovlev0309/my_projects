@@ -1,0 +1,32 @@
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\bin\Debug\Pass-nerator.exe.config
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\bin\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\bin\Debug\Pass-nerator.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass_nerator.Form1.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass_nerator.Properties.Resources.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.csproj.GenerateResource.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.csproj.CoreCompileInputs.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\bin\Debug\Pass-nerator.exe.config
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\bin\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\bin\Debug\Pass-nerator.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass-nerator.csprojAssemblyReference.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass_nerator.Form1.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass_nerator.Properties.Resources.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass-nerator.csproj.GenerateResource.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass-nerator.csproj.CoreCompileInputs.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Проекты C#\Pass-nerator\obj\Debug\Pass-nerator.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.csproj.AssemblyReference.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator\obj\Debug\Pass-nerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\bin\Debug\Pass-nerator.exe.config
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\bin\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\bin\Debug\Pass-nerator.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.csproj.AssemblyReference.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass_nerator.Form1.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass_nerator.Properties.Resources.resources
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.csproj.GenerateResource.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.csproj.CoreCompileInputs.cache
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.exe
+C:\Users\nikna\OneDrive\Рабочий стол\Pass-nerator (old)\obj\Debug\Pass-nerator.pdb
