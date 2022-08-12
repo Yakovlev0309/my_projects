@@ -2,7 +2,6 @@
 using AngleSharp.Html.Dom;
 using AngleSharp.Html.Parser;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ExchangeRates
 {
