@@ -38,3 +38,23 @@ C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\Exchange
 C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.CopyComplete
 C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.exe
 C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.pdb
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\ExchangeRates.exe
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\AngleSharp.dll
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Buffers.dll
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\AngleSharp.xml
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Buffers.xml
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\my_projects\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.csproj.AssemblyReference.cache
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.MainWindow.resources
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.Properties.Resources.resources
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.csproj.GenerateResource.cache
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.csproj.CopyComplete
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.exe
+C:\GitHub\my_projects\ExchangeRates\obj\Debug\ExchangeRates.pdb

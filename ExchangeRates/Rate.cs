@@ -46,14 +46,7 @@ namespace ExchangeRates
         private void ParseFromCBR()
         {
             //Список элементов, получаемых со страницы
-            List<string> elements = new List<string>();
-            //Создание экземпляра класса HtmlParser для парсинга страниц html
-            HtmlParser parser = new HtmlParser();
-            IHtmlDocument document = parser.ParseDocument(html);
-            //Получение элемента table с полученной страницы
-            IElement el = document.QuerySelector("table");
-            //Применение оператора foreach для перебора элементов страницы и поиска нужных
-            GetElements(ref elements, document);
+            List<string> elements = GetElements();
             //Запись полученных данных в соответствующие переменные
             Code = elements[0];
             Name = elements[1];
@@ -64,17 +57,8 @@ namespace ExchangeRates
 
         private void ParseFromFinmarket()
         {
-            //Попытка изменения кодировки
-            byte[] startArr = Encoding.GetEncoding(1251).GetBytes(html);
-            byte[] finishArr = Encoding.Convert(Encoding.UTF8, Encoding.GetEncoding(1251), startArr);
-            string utfHtml = Encoding.UTF8.GetString(finishArr);
             //Список элементов, получаемых со страницы
-            List<string> elements = new List<string>();
-            //Создание экземпляра класса HtmlParser для парсинга страниц html
-            HtmlParser parser = new HtmlParser();
-            IHtmlDocument document = parser.ParseDocument(utfHtml);
-            //Применение оператора foreach для перебора элементов страницы и поиска нужных
-            GetElements(ref elements, document);
+            List<string> elements = GetElements();
             //Запись полученных данных в соответствующие переменные
             Code = "нет данных";
             Name = elements[0];
@@ -86,18 +70,7 @@ namespace ExchangeRates
         private void ParseFromAlta()
         {
             //Список элементов, получаемых со страницы
-            List<string> elements = new List<string>();
-            //Создание экземпляра класса HtmlParser для парсинга страниц html
-            HtmlParser parser = new HtmlParser();
-            IHtmlDocument document = parser.ParseDocument(html);
-            //Применение оператора foreach для перебора элементов страницы и поиска нужных
-            foreach (IElement el in document.QuerySelectorAll("table"))
-            {
-                foreach (IElement ele in el.QuerySelectorAll("tbody"))
-                {
-                    GetElements(ref elements, ele);
-                }
-            }
+            List<string> elements = GetElements();
             //Запись полученных данных в соответствующие переменные
             Code = elements[0].Substring(0, 3);
             Name = elements[0].Substring(4);
@@ -124,10 +97,15 @@ namespace ExchangeRates
             }
             Currency = elements[2];
         }
-
-        void GetElements(ref List<string> elements, dynamic el)
+        //Метод для поиска элементов на странице и заполнения списка
+        List<string> GetElements()
 		{
-            foreach (IElement element in el.QuerySelectorAll("tr"))
+            List<string> elements = new List<string>();
+            //Создание экземпляра класса HtmlParser для парсинга страниц html
+            HtmlParser parser = new HtmlParser();
+            IHtmlDocument document = parser.ParseDocument(html);
+            //Применение оператора foreach для перебора элементов страницы и поиска нужных
+            foreach (IElement element in document.QuerySelectorAll("tr"))
             {
                 if (element.TextContent.Contains(currency.ToString()))
                 {
@@ -137,6 +115,7 @@ namespace ExchangeRates
                     }
                 }
             }
+            return elements;
         }
     }
 }
