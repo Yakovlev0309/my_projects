@@ -1,0 +1,40 @@
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\ExchangeRates.exe
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\AngleSharp.dll
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Buffers.dll
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\AngleSharp.xml
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Buffers.xml
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.csproj.AssemblyReference.cache
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.csproj.SuggestedBindingRedirects.cache
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.MainWindow.resources
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.Properties.Resources.resources
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.csproj.GenerateResource.cache
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.csproj.CopyComplete
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.exe
+C:\МОИ ДОКУМЕНТЫ\Учёба\Системное ПО\Курсовая работа\ExchangeRates\obj\Debug\ExchangeRates.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\ExchangeRates.exe
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\AngleSharp.dll
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Buffers.dll
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\AngleSharp.xml
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Buffers.xml
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.AssemblyReference.cache
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.MainWindow.resources
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.Properties.Resources.resources
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.GenerateResource.cache
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.csproj.CopyComplete
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.exe
+C:\Users\nikna\OneDrive\Рабочий стол\ExchangeRates\obj\Debug\ExchangeRates.pdb
