@@ -166,5 +166,5 @@ namespace ExchangeRates
         {
             Environment.Exit(0);
         }
-    }
+	}
 }
